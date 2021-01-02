@@ -1,4 +1,4 @@
-# CSE-841-Project
+# Heart Disease Prediction and Factors Analysis
 
 This project aims at predicting heart disease effectively with consideration of performance measures
 and significant factors/attributes analysis. So, it addresses two aspects: how the factors influence
