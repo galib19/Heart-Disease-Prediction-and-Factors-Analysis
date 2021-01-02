@@ -6,6 +6,6 @@ heart disease prediction and how well we can predict heart disease. By doing so,
 be analyzed and predicted more effectively.
 
 Several machine learning techniques with various configurations are employed here for prediction
-and important factors analysis. UCI repository: Cleveland database [1] is used here for evaluation.
+and important factors analysis. UCI repository: Cleveland database is used here for evaluation.
 Finally, this study suggests an analysis of important factors and recommend machine learning
 techniques to effectively predict heart disease.
